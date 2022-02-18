@@ -24,6 +24,10 @@ public class Employee {
 	private void empAddress() {
 		System.out.println("ABCD");
 	}
+	
+	private void empSchool() {
+		System.out.println("GMRC");
+	}
 
 	public static void main(String[] args) {
 		Employee A = new Employee();
